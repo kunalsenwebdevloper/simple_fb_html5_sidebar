@@ -1,4 +1,4 @@
-HTML5 Facebook Style Sliding Menu Using Twitter Bootstrap Collapse
+HTML5 Facebook Style Sliding Menu Using Twitter Bootstrap Collapse:-
 =======================
 
 Ever since Facebook, and other “super” apps started to implement a side menu that slides out for their main navigation, this pattern has pretty much turned into the standard for any application that has a lot of content and a complex navigation stack. Organizing information with a sliding menu is becoming increasingly common, as numerous success stories of companies taking a “mobile first” approach has encouraged many to publish as much content on our mobile devices as possible.
